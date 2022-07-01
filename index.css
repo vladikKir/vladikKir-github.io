@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    font-size: 18px;
+    color: #333;
+    font-family: sans-serif;
+    line-height: 1.5;
+}
+
+.golova{
+    margin: 50px 200px 20px 200px;
+    font-size: 30px;
+    text-align: center;
+    border-bottom: 2px ridge rgb(175, 175, 175);
+}
+
+aside {
+    font-size: 13px;
+    border: 2px ridge #e3e3e3;
+    width: 150px;
+    margin-left: 10px;
+    text-align: center;
+}
+
+main {
+    text-align: center;
+
+}
+
+h2 {
+    text-align: left;
+    margin: 30px 0px 30px 30px;
+
+}
+
+ul {
+    border: 2px ridge #e3e3e3;
+    width: 300px;
+    height: 80px;
+    text-align: center;
+    margin: 30px 0px 30px 30px;
+
+}
